@@ -16,7 +16,7 @@ public class SeleniumTest {
         System.out.println(driver.getCurrentUrl());
         driver.navigate().to("https://www.techno.study");
 
-     
+
 
         String expectedTitle = "Join the best coding bootcamps online and get IT training in the US";
 
